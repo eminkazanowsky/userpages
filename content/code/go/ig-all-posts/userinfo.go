@@ -13,7 +13,7 @@ import (
 // no need to login or cookie to access this URL. But if login to Instagram,
 // private account will return private data if you are allowed to view the
 // private account.
-const urlUserInfo = `https://www.instagram.com/{{USERNAME}}/?__a=1`
+const urlUserInfo = `https://www.instagram.com/{{BLEFAROPLASTIKA_AZ}}/?__a=1`
 
 const userAgent = "Instagram 10.3.2 (iPhone7,2; iPhone OS 9_3_3; en_US; en-US; scale=2.00; 750x1334) AppleWebKit/420+"
 
